@@ -32,5 +32,6 @@ my project for some reason. Due to time contraints, I wasnt able to further inve
 Dependencies were found online. Some code snippets were from a previous side project I did
 
 ## Is there any other information you’d like us to know?
+The main focus of the UI was for phones
 
 <img width="287" alt="Screen Shot 2023-01-16 at 12 20 47 PM" src="https://user-images.githubusercontent.com/38301046/212759857-6251b98a-78bc-4835-952a-74b4c2d6a4c3.png">
